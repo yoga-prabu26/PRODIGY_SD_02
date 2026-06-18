@@ -65,12 +65,28 @@
 - Fully responsive layout
 
 ---
-
 ## 🖼 Screenshots
 
-| Main Game | Leaderboard | Achievements |
-|---|---|---|
-| *(screenshot_main.png)* | *(screenshot_lb.png)* | *(screenshot_ach.png)* |
+### 🏠 Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### 🎯 Easy Mode Win
+![Easy Mode Win](screenshots/easy_mode_win.png)
+
+### 🔥 Hard Mode Gameplay
+![Hard Mode Gameplay](screenshots/hard_mode_gameplay.png)
+
+### 💡 Hint System
+![Hint System](screenshots/hint_system.png)
+
+### ⏱ Time Attack Mode
+![Time Attack Mode](screenshots/time_attack_mode.png)
+
+### 🏆 Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
+
+### 🎖 Achievements
+![Achievements](screenshots/achievements.png)
 
 ---
 
