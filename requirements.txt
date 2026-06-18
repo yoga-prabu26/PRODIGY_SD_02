@@ -1,0 +1,8 @@
+# GuessMaster Pro — Python Dependencies
+# Core UI is built on Python's standard library (tkinter)
+# No third-party packages are required.
+
+# Optional: install for development / type checking
+# mypy
+# black
+# flake8
