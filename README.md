@@ -172,9 +172,9 @@ main.py
 
 ## 👤 Author
 
-Yoga Prabu E
-GitHub: https://github.com/yoga-prabu26
-LinkedIn: https://www.linkedin.com/in/yogaprabue07/
+**Yoga Prabu E**
+|GitHub: https://github.com/yoga-prabu26|
+|LinkedIn: https://www.linkedin.com/in/yogaprabue07/|
 
 
 Built as part of **Software Development Internship — Task 02**
