@@ -172,11 +172,12 @@ main.py
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+Yoga Prabu E
+GitHub: https://github.com/yoga-prabu26
+LinkedIn: https://www.linkedin.com/in/yogaprabue07/
 
-Built as part of **Prodigy InfoTech Software Development Internship — Task 02**
+
+Built as part of **Software Development Internship — Task 02**
 
 ---
 
