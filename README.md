@@ -1,8 +1,5 @@
 # 🎯 GuessMaster Pro
 
-<p align="center">
-  <img src="assets/screenshot_main.png" alt="GuessMaster Pro Screenshot" width="800"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python"/>
