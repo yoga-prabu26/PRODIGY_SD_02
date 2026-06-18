@@ -130,15 +130,10 @@ PRODIGY_SD_02/
 ├── leaderboard.py    # Top-10 leaderboard + CSV export
 ├── achievements.py   # Achievement unlock management
 ├── ui.py             # Full Tkinter GUI (all views, widgets, layout)
-├── data/
-│   ├── statistics.json
-│   ├── leaderboard.json
-│   ├── history.json
-│   └── achievements.json
-├── assets/           # Screenshots & icons
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+└── Screenshots
 ```
 
 ---
